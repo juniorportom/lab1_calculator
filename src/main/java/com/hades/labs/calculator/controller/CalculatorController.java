@@ -1,6 +1,6 @@
 package com.hades.labs.calculator.controller;
 
-import com.hades.labs.calculator.crosscutting.Constants;
+import com.hades.labs.calculator.crosscutting.constants.Constants;
 import com.hades.labs.calculator.service.CalculatorService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

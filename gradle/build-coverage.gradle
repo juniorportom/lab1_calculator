@@ -1,4 +1,4 @@
-jacoco{
-    minimumCoverage = 0.8
-    coverageExclusions = []
-}
+//jacoco{
+//    minimumCoverage = 0.8
+//    coverageExclusions = []
+//}

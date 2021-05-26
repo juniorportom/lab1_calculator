@@ -14,13 +14,13 @@ buildscript {
 	dependencies {
 		classpath("io.spring.gradle:dependency-management-plugin:${DEPENDENCY_MANAGEMENT_PLUGIN_VERSION}")
 		classpath("org.springframework.boot:spring-boot-gradle-plugin:${SPRING_BOOT_VERISON}")
-		classpath("org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:${SPRING_BOOT_VERISON}")
+		//classpath("org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:${SPRING_BOOT_VERISON}")
 
 	}
 }
 
 apply plugin: 'org.springframework.boot'
-apply plugin: 'org.sonarqube'
+//apply plugin: 'org.sonarqube'
 
 
 /* -------------------------------- */
